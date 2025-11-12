@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Naghma Tea — شاي نغمة</title>
+  <link rel="icon" href="assets/images/favicon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="logo">شاي نغمة — Naghma Tea</h1>
+      <nav>
+        <a href="#teas">Our Teas</a>
+        <a href="#ingredients">Ingredients</a>
+        <a href="#process">Process</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <img src="assets/images/hero.jpg" alt="Herbal tea hero" class="hero-img">
+      <div class="hero-text">
+        <h2>100% Moroccan Herbal Tea</h2>
+        <p>Authentic blends crafted with natural Moroccan herbs and spices. Tradition and freshness in every cup.</p>
+      </div>
+    </section>
+
+    <section id="teas" class="container teas">
+      <h2>Our Signature Blends</h2>
+      <div class="grid">
+        <article class="card">
+          <h3>Moroccan Mint</h3>
+          <p class="desc">Refreshing and classic, a symbol of Moroccan hospitality.</p>
+          <ul>
+            <li>Spearmint</li>
+            <li>Verbena</li>
+            <li>Rose petals</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <h3>Calming Harmony</h3>
+          <p class="desc">A relaxing herbal mix for balance and peace.</p>
+          <ul>
+            <li>Chamomile</li>
+            <li>Verbena</li>
+            <li>Dried lemon peel</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <h3>Citrus Breeze</h3>
+          <p class="desc">Zesty and warm, with hints of herbs and spice.</p>
+          <ul>
+            <li>Citrosa (Lemon grass)</li>
+            <li>Rosemary</li>
+            <li>Cinnamon</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section id="ingredients" class="container ingredients">
+      <h2>Natural Ingredients</h2>
+      <p>Each blend is created with handpicked Moroccan herbs and botanicals:</p>
+      <div class="ingredients-grid">
+        <div><strong>Herbs:</strong><br>Mint, Verbena, Chamomile, Rosemary, Sage, Oregano, Thyme</div>
+        <div><strong>Spices & Aromatics:</strong><br>Cinnamon, Clove, Anise, Dried lemon peel, Rose petals</div>
+        <div><strong>Special touch:</strong><br>Citrosa, Absinthe, Natural resin (gomme)</div>
+      </div>
+    </section>
+
+    <section id="process" class="container how">
+      <h2>Our Process</h2>
+      <p>We follow a simple, authentic process to ensure freshness and quality:</p>
+      <ol>
+        <li>Hand-picking the finest herbs</li>
+        <li>Natural drying under the Moroccan sun</li>
+        <li>Careful blending and packaging</li>
+      </ol>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>© 2025 Naghma Tea — Moroccan Herbal Blends</small>
+    </div>
+  </footer>
+
+</body>
+</html>
